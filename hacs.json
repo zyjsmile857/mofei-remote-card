@@ -1,0 +1,6 @@
+{
+  "name": "Mofei Remote Card",
+  "render_readme": true,
+  "filename": "mofei-remote-card.js",
+  "homeassistant": "2024.1.0"
+}
